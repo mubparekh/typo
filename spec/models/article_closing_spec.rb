@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'rails_helper' 
 
 describe "CommentClosing from Test::Unit; no I don't know why it's in article_closing_spec.rb" do
   def an_article(options = {})

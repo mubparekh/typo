@@ -1,5 +1,5 @@
 #remove_const "Flickr"
-
+require 'rails_helper' 
 class FlickRaw::Flickr
   def initialize
   end

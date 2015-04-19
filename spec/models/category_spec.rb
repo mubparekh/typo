@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'rails_helper' 
 
 describe 'Given the results of Category.find_all_with_article_counters' do
   before(:each) { @cats = Category.find_all_with_article_counters }

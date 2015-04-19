@@ -1,3 +1,4 @@
+require 'rails_helper' 
 class IPSocket
   def self.getaddress(host)
     case host

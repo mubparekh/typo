@@ -1,3 +1,4 @@
+require 'rails_helper' 
 require 'spec_helper'
 
 describe Trackback, 'With the various trackback filters loaded and DNS mocked out appropriately' do

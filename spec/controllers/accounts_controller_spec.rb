@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'rails_helper' 
 
 describe AccountsController do
   describe "A successful login with 'Remember me' checked" do

@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'rails_helper' 
 
 describe 'Given a published article' do
   before(:each) do

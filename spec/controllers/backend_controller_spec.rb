@@ -1,5 +1,6 @@
 require 'spec_helper'
 require 'action_web_service/test_invoke'
+require 'rails_helper' 
 
 describe BackendController do
   before :each do

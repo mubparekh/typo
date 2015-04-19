@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'rails_helper' 
 
 describe GroupingsHelper do
   describe '#ul_tag_for' do

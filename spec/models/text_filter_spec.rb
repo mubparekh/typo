@@ -1,3 +1,4 @@
+require 'rails_helper' 
 require 'spec_helper'
 
 describe "With the list of available filters" do

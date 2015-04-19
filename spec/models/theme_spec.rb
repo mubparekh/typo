@@ -1,3 +1,4 @@
+require 'rails_helper' 
 require 'spec_helper'
 
 describe 'Given a new test theme' do

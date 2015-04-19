@@ -1,5 +1,6 @@
 # coding: utf-8
 require 'spec_helper'
+require 'rails_helper' 
 
 describe ApplicationHelper do
   before(:each) { @blog = Factory(:blog) }

@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+require 'rails_helper' 
 describe 'Ping::Pinger with Test::Unit' do
   before do
     Factory(:blog)

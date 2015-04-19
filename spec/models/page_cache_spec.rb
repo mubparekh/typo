@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+require 'rails_helper' 
 describe PageCache do
 
   describe 'PageCache#self.sweep_all' do

@@ -1,3 +1,4 @@
+require 'rails_helper' 
 module Net
   remove_const "HTTP"
   class Request < Struct.new(:host, :port, :query, :post_data, :headers)
